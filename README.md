@@ -2,6 +2,8 @@
 
 面向 OnePlus 7T Pro / ColorOS 的 Nothing 风格 3×1 原生 Android 桌面组件。
 
+![存储状态组件实机截图](screenshots/widget.png)
+
 ## 功能
 
 - 容量热力图：绿色为普通占用，黄色为真实系统缓存，暗格为可用空间。
